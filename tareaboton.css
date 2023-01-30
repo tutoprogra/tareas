@@ -1,0 +1,10 @@
+
+
+
+
+.btn-modern:hover{ 
+    background-color: blueviolet;
+    color: white;
+    box-shadow: 0 0 rgba(92, 85, 85, 0.301);
+    transform: translateY(-5px);
+}
